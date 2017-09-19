@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM UGUI.CSharp", "MVVM UGUI.CSharp.csproj", "{EC25AA75-ABB5-E833-B42E-10AA4C0ACDAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM UGUI.CSharp.Editor", "MVVM UGUI.CSharp.Editor.csproj", "{0A1BA6B7-F27F-2A9B-7992-50A8ABB094FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC25AA75-ABB5-E833-B42E-10AA4C0ACDAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC25AA75-ABB5-E833-B42E-10AA4C0ACDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC25AA75-ABB5-E833-B42E-10AA4C0ACDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC25AA75-ABB5-E833-B42E-10AA4C0ACDAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A1BA6B7-F27F-2A9B-7992-50A8ABB094FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1BA6B7-F27F-2A9B-7992-50A8ABB094FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1BA6B7-F27F-2A9B-7992-50A8ABB094FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1BA6B7-F27F-2A9B-7992-50A8ABB094FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
